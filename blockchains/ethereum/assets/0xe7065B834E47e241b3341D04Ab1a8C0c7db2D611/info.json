@@ -1,0 +1,21 @@
+{
+    "name": "Zing",
+    "website": "https://zingpays.com/",
+    "description": "Leveraging community to build an inclusive financial ecosystem. We are Meme Utility",
+    "explorer": "https://etherscan.io/token/0xe89aE3469909bdd9d5169836ac2845D281Fed2E0",
+    "type": "ERC20",
+    "symbol": "TREO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe89aE3469909bdd9d5169836ac2845D281Fed2E0",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/HokkaidoInu"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/hokkaiduinu"
+        }
+    ]
+}
